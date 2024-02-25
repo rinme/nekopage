@@ -1,0 +1,10 @@
+{
+  "name": "rinnekoweb",
+  "version": "1.0.0",
+  "description": "Rinme's Page for nekoweb",
+  "main": "index.js",
+  "repository": "https://github.com/rinme/nekopage",
+  "author": "rinme",
+  "license": "MIT",
+  "private": false
+}
